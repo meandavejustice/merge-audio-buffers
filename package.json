@@ -1,0 +1,27 @@
+{
+  "name": "merge-audio-buffers",
+  "version": "1.0.0",
+  "description": "merge audio buffer data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meandavejustice/merge-audio-buffers.git"
+  },
+  "keywords": [
+    "merge",
+    "buffer",
+    "audio",
+    "data",
+    "webaudio",
+    "mix"
+  ],
+  "author": "meandave",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meandavejustice/merge-audio-buffers/issues"
+  },
+  "homepage": "https://github.com/meandavejustice/merge-audio-buffers"
+}
